@@ -6,5 +6,8 @@ This project uses Java and the Code.org Neighborhood Painter to create a hippo u
 ## Output
 The final output is a blue hippo created on the Neighborhood grid.
 
+![Hippo Asphalt Art](image_2026-09-22_165800896.png)
+
+
 ## Reflection
 I learned how to use classes, subclasses, methods, and loops to organize my code. Creating separate methods for different parts of the hippo made the program easier to understand. I also used a while loop to reduce repeated move commands.
